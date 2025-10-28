@@ -1,0 +1,14 @@
+<Bindings>
+    <!-- <Binding name="AdvancedInterfaceOptions_TOGGLE_PAUSE" header="AdvancedInterfaceOptions_HEADER">AdvancedInterfaceOptions:TogglePause();</Binding>
+    <Binding name="AdvancedInterfaceOptions_SNAPSHOT">AdvancedInterfaceOptions:MakeSnapshot();</Binding>
+    <Binding name="AdvancedInterfaceOptions_TOGGLE_COOLDOWNS">AdvancedInterfaceOptions:ToggleCooldowns();</Binding>
+    <Binding name="AdvancedInterfaceOptions_TOGGLE_ARTIFACT">AdvancedInterfaceOptions:ToggleArtifact();</Binding>
+    <Binding name="AdvancedInterfaceOptions_TOGGLE_POTIONS">AdvancedInterfaceOptions:TogglePotions();</Binding>
+    <Binding name="AdvancedInterfaceOptions_TOGGLE_INTERRUPTS">AdvancedInterfaceOptions:ToggleInterrupts();</Binding>
+    <Binding name="AdvancedInterfaceOptions_TOGGLE_MODE">AdvancedInterfaceOptions:ToggleMode();</Binding>
+    <Binding name="AdvancedInterfaceOptions_TOGGLE_1">AdvancedInterfaceOptions:ToggleCustom(1);</Binding>
+    <Binding name="AdvancedInterfaceOptions_TOGGLE_2">AdvancedInterfaceOptions:ToggleCustom(2);</Binding>
+    <Binding name="AdvancedInterfaceOptions_TOGGLE_3">AdvancedInterfaceOptions:ToggleCustom(3);</Binding>
+    <Binding name="AdvancedInterfaceOptions_TOGGLE_4">AdvancedInterfaceOptions:ToggleCustom(4);</Binding>
+    <Binding name="AdvancedInterfaceOptions_TOGGLE_5">AdvancedInterfaceOptions:ToggleCustom(5);</Binding> -->
+</Bindings>
