@@ -1,0 +1,5 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Include file="Libs\AceAddon-3.0\AceAddon-3.0.xml"/>
+	<Include file="Libs\AceEvent-3.0\AceEvent-3.0.xml"/>
+	<Include file="Libs\LibAsync\LibAsync.xml"/>
+</Ui>

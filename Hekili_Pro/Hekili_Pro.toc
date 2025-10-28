@@ -1,0 +1,16 @@
+## Interface:  30405, 110205
+## Version: v11.2.0-1.0.12
+## Title: |cFFFF0000Hekili_Pro|r
+## Author: Hekili_Pro
+## Notes: 
+## SavedVariables: Hekili_ProDB,
+## SavedVariablesPerCharacter: ThirkDmgStatsDB, Hekili_ProAbilityDB
+## OptionalDeps: Hekili_Pro, AdvancedInterfaceOptions
+## IconTexture: Interface\AddOns\Hekili_Pro\SHAMAN.blp
+
+embeds.xml
+
+Hekili_Pro.lua
+ExCmd.lua
+Core.lua
+Core_WLK.lua
